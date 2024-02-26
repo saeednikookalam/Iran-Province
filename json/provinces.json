@@ -1,0 +1,157 @@
+[
+  {
+    "id": 8,
+    "name": "تهران",
+    "slug": "tehran-province"
+  },
+  {
+    "id": 27,
+    "name": "مازندران",
+    "slug": "mazandaran"
+  },
+  {
+    "id": 1,
+    "name": "آذربایجان شرقی",
+    "slug": "east-azerbaijan"
+  },
+  {
+    "id": 2,
+    "name": "آذربایجان غربی",
+    "slug": "west-azerbaijan"
+  },
+  {
+    "id": 3,
+    "name": "اردبیل",
+    "slug": "ardabil-province"
+  },
+  {
+    "id": 4,
+    "name": "اصفهان",
+    "slug": "isfahan-province"
+  },
+  {
+    "id": 5,
+    "name": "البرز",
+    "slug": "alborz"
+  },
+  {
+    "id": 6,
+    "name": "ایلام",
+    "slug": "ilam-province"
+  },
+  {
+    "id": 7,
+    "name": "بوشهر",
+    "slug": "bushehr-province"
+  },
+  {
+    "id": 9,
+    "name": "چهارمحال و بختیاری",
+    "slug": "charmahal-bakhtiari"
+  },
+  {
+    "id": 10,
+    "name": "خراسان جنوبی",
+    "slug": "south-khorasan"
+  },
+  {
+    "id": 11,
+    "name": "خراسان رضوی",
+    "slug": "razavi-khorasan"
+  },
+  {
+    "id": 12,
+    "name": "خراسان شمالی",
+    "slug": "north-khorasan"
+  },
+  {
+    "id": 13,
+    "name": "خوزستان",
+    "slug": "khuzestan"
+  },
+  {
+    "id": 14,
+    "name": "زنجان",
+    "slug": "zanjan-province"
+  },
+  {
+    "id": 15,
+    "name": "سمنان",
+    "slug": "semnan-province"
+  },
+  {
+    "id": 16,
+    "name": "سیستان و بلوچستان",
+    "slug": "sistan-baluchestan"
+  },
+  {
+    "id": 17,
+    "name": "فارس",
+    "slug": "fars"
+  },
+  {
+    "id": 18,
+    "name": "قزوین",
+    "slug": "qazvin-province"
+  },
+  {
+    "id": 19,
+    "name": "قم",
+    "slug": "qom-province"
+  },
+  {
+    "id": 20,
+    "name": "کردستان",
+    "slug": "kurdistan"
+  },
+  {
+    "id": 21,
+    "name": "کرمان",
+    "slug": "kerman-province"
+  },
+  {
+    "id": 22,
+    "name": "کرمانشاه",
+    "slug": "kermanshah-province"
+  },
+  {
+    "id": 23,
+    "name": "کهگیلویه و بویراحمد",
+    "slug": "kohgiluyeh-boyerahmad"
+  },
+  {
+    "id": 24,
+    "name": "گلستان",
+    "slug": "golestan"
+  },
+  {
+    "id": 25,
+    "name": "لرستان",
+    "slug": "lorestan"
+  },
+  {
+    "id": 26,
+    "name": "گیلان",
+    "slug": "gilan"
+  },
+  {
+    "id": 28,
+    "name": "مرکزی",
+    "slug": "markazi"
+  },
+  {
+    "id": 29,
+    "name": "هرمزگان",
+    "slug": "hormozgan"
+  },
+  {
+    "id": 30,
+    "name": "همدان",
+    "slug": "hamadan-province"
+  },
+  {
+    "id": 31,
+    "name": "یزد",
+    "slug": "yazd-province"
+  }
+]
